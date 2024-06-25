@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-![Movie Recommendation System](Movie-recommender-system/movie.jpeg)
+![Movie Recommendation System](movie.jpeg)
 
 ## Overview
 
