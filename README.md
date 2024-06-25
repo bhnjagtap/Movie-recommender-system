@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-![Movie Recommendation System](path/to/your/image.png)
+![Movie Recommendation System](C:\Users\ADMIN\Machine-Learning-Project/movie.png)
 
 ## Overview
 
@@ -24,7 +24,7 @@ This project is a movie recommendation system developed as my graduation project
 Navigate to the project directory and install dependencies:
 sh
 Copy code
-cd movierecommender
+cd Movie-recommender-system
 pip install -r requirements.txt
 Usage
 Run the Jupyter Notebook to train the recommendation model.
