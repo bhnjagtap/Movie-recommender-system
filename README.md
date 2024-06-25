@@ -20,7 +20,7 @@ This project is a movie recommendation system developed as my graduation project
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/movierecommender.git
+   git clone https://github.com/yourusername/Movie-recommender-system.git
 Navigate to the project directory and install dependencies:
 sh
 Copy code
