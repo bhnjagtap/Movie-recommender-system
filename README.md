@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-![Movie Recommendation System](C:\Users\ADMIN\Machine-Learning-Project/movie.png)
+![Movie Recommendation System](Movie-recommender-system/movie.jpeg)
 
 ## Overview
 
